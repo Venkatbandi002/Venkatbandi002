@@ -59,8 +59,8 @@ Touchless appliance control system using acoustic sensors and an Arduino, with r
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Venkatbandi002&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Venkatbandi002&layout=compact)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Venkatbandi002&show_icons=true&theme=default" width="450" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Venkatbandi002&layout=compact" width="450" />
 
 ---
 
