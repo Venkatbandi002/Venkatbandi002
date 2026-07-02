@@ -1,4 +1,4 @@
-# Hi, I'm Veera Venkata Satyanarayana Bandi 👋
+# Hi, I'm Veera Venkata Satyanarayana Bandi
 
 AI Engineer building LLM-powered applications, RAG pipelines, and ML systems.
 
