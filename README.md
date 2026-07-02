@@ -41,7 +41,7 @@ AI Engineer building LLM-powered applications, RAG pipelines, and ML systems.
 
 ## 🚀 Featured Projects
 
-### 🔐 [ML-Based Phishing Detection](#)
+### 🔐 [ML-Based Phishing Detection](https://github.com/Venkatbandi002/Improving-Online-Safety-With-machine-Learning-Based-phishing-Detection)
 Stacked ensemble model (Random Forest, SVM, XGBoost) for real-time phishing URL detection, deployed via Flask with a community-driven reporting module.
 **Results:** 86.2% accuracy · AUC 0.92 · 92% phishing precision · Published in **IJPREMS** (Impact Factor 7.001)
 `Python` `Scikit-learn` `XGBoost` `Flask` `SQLAlchemy`
@@ -51,7 +51,7 @@ Hybrid CNN + RNN (LSTM/GRU) architecture for recognizing sign language gestures 
 **Results:** 99.89% validation accuracy · Accepted at **IEEE ICCCNT 2025, IIT Indore**
 `Python` `TensorFlow` `Scikit-learn` `NumPy`
 
-### 🖐️ Gesture-Controlled Smart Home Automation
+### 🖐️ [Gesture-Controlled Smart Home Automation](https://github.com/Venkatbandi002/Gesture-Controlled-Switches-for-Smart-Home-Automation-Using-Optical-Sensors)
 Touchless appliance control system using acoustic sensors and an Arduino, with real-time gesture recognition logic.
 `C` `Arduino` `Acoustic Sensors`
 
@@ -59,8 +59,8 @@ Touchless appliance control system using acoustic sensors and an Arduino, with r
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkatbandi002&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatbandi002&layout=compact)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Venkatbandi002&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Venkatbandi002&layout=compact)
 
 ---
 
