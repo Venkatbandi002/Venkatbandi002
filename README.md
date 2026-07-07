@@ -2,7 +2,7 @@
 
 AI Engineer building LLM-powered applications, RAG pipelines, and ML systems.
 
-- 🔭 Currently working as an **AI Engineer Intern** — building LLM-based apps with RAG pipelines and integrating AI models into production systems.
+- 🔭 Currently working as an **AI Engineer Intern** - building LLM-based apps with RAG pipelines and integrating AI models into production systems.
 - 🎓 B.Tech in CSE Artificial Intelligence & Machine Learning
 - 🌱 Actively exploring **Agentic AI** and advanced RAG architectures
 - 📝 Co-author of a published paper on ML-based phishing detection (IJPREMS)
