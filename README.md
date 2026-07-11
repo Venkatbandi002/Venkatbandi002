@@ -1,5 +1,7 @@
 # Hi, I'm Veera Venkata Satyanarayana Bandi
 
+<img width="966" height="142" alt="ascii-art-text (1)" src="https://github.com/user-attachments/assets/3ea2072a-ae2b-441c-b2eb-a7a639d5216b" />
+
 AI Engineer building LLM-powered applications, RAG pipelines, and ML systems.
 
 - 🔭 Currently working as an **AI Engineer Intern** - building LLM-based apps with RAG pipelines and integrating AI models into production systems.
