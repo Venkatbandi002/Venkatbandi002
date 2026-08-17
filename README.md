@@ -39,26 +39,6 @@ AI Engineer building LLM-powered applications, RAG pipelines, and ML systems.
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 🔐 [ML-Based Phishing Detection](https://github.com/Venkatbandi002/Improving-Online-Safety-With-machine-Learning-Based-phishing-Detection)
-Stacked ensemble model (Random Forest, SVM, XGBoost) for real-time phishing URL detection, deployed via Flask with a community-driven reporting module.
-**Results:** 86.2% accuracy · AUC 0.92 · 92% phishing precision · Published in **IJPREMS** (Impact Factor 7.001)
-`Python` `Scikit-learn` `XGBoost` `Flask` `SQLAlchemy`
-
-### 🤟 CRNN: Sign Language Gesture Recognition
-Hybrid CNN + RNN (LSTM/GRU) architecture for recognizing sign language gestures from video frames, combining spatial and temporal feature extraction.
-**Results:** 99.89% validation accuracy · Accepted at **IEEE ICCCNT 2025, IIT Indore**
-`Python` `TensorFlow` `Scikit-learn` `NumPy`
-
-### 🖐️ [Gesture-Controlled Smart Home Automation](https://github.com/Venkatbandi002/Gesture-Controlled-Switches-for-Smart-Home-Automation-Using-Optical-Sensors)
-Touchless appliance control system using acoustic sensors and an Arduino, with real-time gesture recognition logic.
-`C` `Arduino` `Acoustic Sensors`
-
----
-
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Venkatbandi002&show_icons=true&theme=default" width="450" /> 
