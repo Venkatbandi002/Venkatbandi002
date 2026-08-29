@@ -39,11 +39,6 @@ AI Engineer building LLM-powered applications, RAG pipelines, and ML systems.
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Venkatbandi002&show_icons=true&theme=default" width="450" /> 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Venkatbandi002&layout=compact" width="450" />
-
 ---
 
 ## 📫 Connect with me
